@@ -3,4 +3,4 @@ This application sends e-mail when an anomally traffic appears on your Fortigate
 
 Application really works fine with Fortigate 600D firmware 5.2 
 First of all you must configure DOS policy on your fortigate firewall.
-You must enable ssh on port that you will connect to fortigate firewall
+You must enable ssh on interface that you will connect to fortigate firewall
