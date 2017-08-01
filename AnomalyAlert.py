@@ -5,7 +5,7 @@ import getpass
 from pexpect import pxssh
 import time
 from datetime import datetime
-from FortiMail2 import mail_gonder
+from FortiMail import mail_gonder
 
 
 giris="""
